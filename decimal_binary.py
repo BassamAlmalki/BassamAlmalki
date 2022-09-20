@@ -1,5 +1,5 @@
 print("""((programmed by bassam almalki‏))
-•••••••••••••
+My ig : 5ndh •••••••••••••
 [1] binary to decimal
 [2] decimal to binary
 •••••••••••••
